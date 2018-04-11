@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Oct 06, 2016 at 11:02 
+-- Generation Time: Oct 06, 2016 at 11:02
 -- Server version: 5.6.16
 -- PHP Version: 5.5.11
 
@@ -17,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `mynotescode`
+-- Database: `upload_foto`
 --
 
 -- --------------------------------------------------------
